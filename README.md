@@ -8,4 +8,4 @@ To import the project, it is sufficient to send the main.dart file in the lib fi
 
 Good day.
 
-Projenin bir çalışır hali: https://youtu.be/kkMW5y-zhHw
+Working state of the project: https://youtu.be/kkMW5y-zhHw
